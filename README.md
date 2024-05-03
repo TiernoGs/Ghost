@@ -1,0 +1,2 @@
+# Ghost
+Blender GUI library
