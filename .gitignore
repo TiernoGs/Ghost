@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# VsCode
+*.code-workspace
+.vscode/
+
+[Bb]uild/
+
